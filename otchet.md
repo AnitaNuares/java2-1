@@ -9,6 +9,8 @@
 
     [итоговая сумма не соответствует введенным данным](https://monosnap.com/file/onIJWfThjqELnBf5WJMzgnl7XJ80eo)
     ![итоговая сумма не соответствует введенным данным](https://monosnap.com/file/onIJWfThjqELnBf5WJMzgnl7XJ80eo)
+    итоговая сумма не соответствует введенным данным: 
+![alt text]https://monosnap.com/file/onIJWfThjqELnBf5WJMzgnl7XJ80eo "Sum")
 
 ## Описание процесса тестирования
 
