@@ -6,11 +6,8 @@
 На тестирование затрачено: 4 часа
 
 **В результате тестирования выявлены следующие дефекты:**
-
-    [итоговая сумма не соответствует введенным данным](https://monosnap.com/file/onIJWfThjqELnBf5WJMzgnl7XJ80eo)
-    ![итоговая сумма не соответствует введенным данным](https://monosnap.com/file/onIJWfThjqELnBf5WJMzgnl7XJ80eo)
-    итоговая сумма не соответствует введенным данным: 
-![alt text](https://monosnap.com/file/onIJWfThjqELnBf5WJMzgnl7XJ80eo "Sum")
+     
+    ![итоговая сумма не соответствует введенным данным:](https://github.com/AnitaNuares/java2-1/blob/master/untitled1%20%E2%80%93%20Main.java%202021-03-28%2019.34.44.png "Sum")
 
 ## Описание процесса тестирования
 
