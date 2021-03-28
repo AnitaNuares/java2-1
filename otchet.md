@@ -7,8 +7,8 @@
 
 **В результате тестирования выявлены следующие дефекты:**
 
-    итоговая сумма не соответствует введенным данным
-    ![-1.794.967.296](https://monosnap.com/file/onIJWfThjqELnBf5WJMzgnl7XJ80eo)
+    [итоговая сумма не соответствует введенным данным](https://monosnap.com/file/onIJWfThjqELnBf5WJMzgnl7XJ80eo)
+    ![итоговая сумма не соответствует введенным данным](https://monosnap.com/file/onIJWfThjqELnBf5WJMzgnl7XJ80eo)
 
 ## Описание процесса тестирования
 
