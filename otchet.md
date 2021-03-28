@@ -9,7 +9,7 @@
      
     ![итоговая сумма не соответствует введенным данным:](https://github.com/AnitaNuares/java2-1/blob/master/untitled1%20%E2%80%93%20Main.java%202021-03-28%2019.34.44.png "Sum")
     итоговая сумма не соответствует введенным данным:
-    ![alt text](https://github.com/AnitaNuares/java2-1/blob/master/untitled1%20%E2%80%93%20Main.java%202021-03-28%2019.34.44.png "Sum")
+    ![данным](https://github.com/AnitaNuares/java2-1/blob/master/untitled1%20%E2%80%93%20Main.java%202021-03-28%2019.34.44.png "Sum")
 
 ## Описание процесса тестирования
 
